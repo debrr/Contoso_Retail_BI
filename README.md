@@ -31,21 +31,9 @@ Construir um dashboard interativo no **Power BI** que permita:
 ![Visão Geral](images/visao_geral.png)
 
 ### 🔹 Vendas por Território
-![Vendas por Território](images/vendas_territorio.png)
+![Vendas por Território](images/vendas_por_territorio.png)
 
-
-## Estrutura do Repositório
-Contoso_Retail_BI/
-├── Contoso -- Business Intelligence.pbix
-├── README.md
-└── images/
-├── visao_geral.png
-├── vendas_territorio.png
-└── analise_temporal.png
 
 ## Observações
 - O arquivo `.pbix` é versionado utilizando **Git LFS** devido ao tamanho.
 - Projeto desenvolvido para fins de **portfólio em Data Analytics / BI**.
-
----
-*Projeto em constante evolução.*
