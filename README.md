@@ -1,8 +1,18 @@
-# Contoso_Retail_BI
-
 # Contoso Retail – Business Intelligence
 
 Projeto de Business Intelligence desenvolvido com base no dataset **Contoso Retail**, com foco em análise de vendas, canais e desempenho geográfico para suporte à tomada de decisão.
+
+---
+
+## Dashboard Preview
+
+# Visão Geral
+![Visão Geral](images/visao_geral.png)
+
+# Vendas por Território
+![Vendas por Território](images/vendas_por_territorio.png)
+
+---
 
 ## Objetivo do Projeto
 
